@@ -1,4 +1,4 @@
-# node-3-weather-forecast
+# Weather forecast using terminal
 
 Weather forecasting by providing input in the terminal
 
